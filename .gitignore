@@ -1,0 +1,58 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# VSCode settings folder
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Heroku
+runtime.txt
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Pycharm
+.idea/
+
+# Local virtual environment folders
+env/
+venv/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
